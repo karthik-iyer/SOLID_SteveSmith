@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EUvsT3UZTk8+QMEwJ49B0JAQilkCIIimkiqXbjKsjyRUjeRJJQIA1TAGVau8qLBmb1dEFvyTY0VA4cvsc1S/EQ==",
+  "success": true,
+  "projectFilePath": "/Users/karthikiyer/Sites/C#/SOLID_Steve_Smith/SolidSample/ArdalisRating/ArdalisRating.csproj",
+  "expectedPackageFiles": [
+    "/Users/karthikiyer/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
